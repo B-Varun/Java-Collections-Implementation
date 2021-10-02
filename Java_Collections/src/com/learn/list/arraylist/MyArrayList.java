@@ -1,3 +1,7 @@
+/*
+ArrayList that will perform Operations on Integer Objects. 
+*/
+
 package com.learn.list.arraylist;
 
 public class MyArrayList {
